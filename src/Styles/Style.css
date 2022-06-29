@@ -17,8 +17,14 @@ body {
   transition: 0.4s ease-out;
 }
 
+.app.hot {
+  background-image: url("./assets/hot-bg.jpg");
+  transition: 0.4s ease-out;
+}
+
 .app.warm {
   background-image: url("./assets/warm-bg.jpg");
+  transition: 0.4s ease-out;
 }
 
 main {
